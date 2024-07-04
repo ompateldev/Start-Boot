@@ -1,0 +1,192 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main1 {
+    width: 100%;
+    background-color: #2c3e50;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    height: 15vh;
+    padding-top:  20px;
+
+
+}
+
+.div1 ul {
+    display: flex;
+}
+
+.div1 ul li {
+    list-style: none;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.main2 {
+    width: 100%;
+    background-color: #18bc9c;
+    text-align: center;
+    color: #ffff;
+    float: left;
+
+    height: 80vh;
+}
+
+.div2 h2 {
+    font-size: 70px;
+text-decoration: underline;
+    padding-top: 80px;
+}
+
+.div2 h3 {
+    font-size: 25px;
+}
+
+.main3 {
+    width: 100%;
+    text-align: center;
+    float: left;
+    margin-bottom: 150px;
+    background: #fff;
+}
+
+.img1 img {
+    width: 25%;
+    padding: 10px;
+}
+
+.main4 h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 45px;
+}
+
+.main4 p {
+    text-align: start;
+}
+
+.main4-2 {
+    width: 100%;
+    background-color: #00ffff;
+    color: white;
+    overflow: hidden;
+    height: 600px;
+}
+
+.main4 {
+    padding-top: 100px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    padding-top: 36px;
+}
+
+.main5 {
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    color: gray;
+    text-decoration: 10px underline;
+
+}
+
+.main6 {
+    color: gray;
+    font-size: 25px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.btn {
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size: 35px;
+    text-decoration: none;
+    padding: 13px 33px;
+    width: 20%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.btn2 {
+    padding: 13px 20px;
+    background-color: aquamarine;
+    color: wheat;
+    text-decoration: none;
+}
+.btn2:hover{
+    background-color: aliceblue;
+    color: black;
+    transition: 0.5s;
+}
+
+.main7 {
+    width: 100%;
+    background-color: #2c3e50;
+    color: white;
+
+}
+
+.container7 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.laft{
+    width: 30%;
+   margin-left: 70px ;
+   margin-bottom: 100px;
+   margin-top: 50px;
+}
+.middal{
+    width: 30%;
+    text-align: center;
+    margin-right: 110px;
+    margin-top: 50px;
+}
+
+.middal i{
+    font-size: 20px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.middal i:hover{
+    background-color: #fff;
+    color: black;
+    transition: 0.5s;
+}
+
+
+.right{
+    width: 30%;
+    text-align: center ;
+    margin-top: 50px;
+}
+
+.main8{
+    background-color: #1a252f;
+    background-size: cover;
+    height: 10vh;
+    padding-top: 50;
+    color: white;
+    margin-top: -18px;
+    text-align:  center;
+}
+
+.container8{
+    padding-top: 10px;
+}
